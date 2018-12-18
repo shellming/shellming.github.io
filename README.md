@@ -1,1 +1,0 @@
-# shellming.github.io
